@@ -1,0 +1,14 @@
+layout_spectrum: 0.7001284160651267
+typography_spectrum: 0.22805151739157736
+color:
+  brandStrength: 0.8007393723819405
+  lightness: 0.323321845382452
+  saturation: 0.6525160572491586
+  rhythmicContrast: 0.8730345731601119
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: AsiaLigent
